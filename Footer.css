@@ -1,0 +1,21 @@
+.text-center{
+    text-align: center;
+    color: rgb(239, 231, 231);
+    background: black;
+    padding: 60px 0px;
+    height: 100px;
+    align-items: center;
+    
+    /* background: linear-gradient(to right, #833ab4,#fd1d1d,#fcb045);
+background-size: 400% 400%;
+animation:background1 ease-in-out 10s infinite */
+   
+}
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    
+}

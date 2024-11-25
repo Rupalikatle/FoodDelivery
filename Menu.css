@@ -1,0 +1,106 @@
+   .text{ 
+    width: 1200px;
+    height: 500px;
+     margin: 5px;
+    justify-content: center;
+    text-align: center;
+    padding-left: 500px;
+    /* padding-right: 600px; */
+    background-color: black;
+    /* background: linear-gradient(to right, #833ab4,#fd1d1d,#fcb045);
+background-size: 400% 400%;
+animation:background1 ease-in-out 10s infinite */
+}
+.top {
+    
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     margin: 10px 5px;
+  
+   
+    
+}
+
+.title{
+    font-size: 30px;
+    font: bold;
+    font-family: italic;
+    color: rgb(240, 7, 69);
+    background-color: black;
+    display:flexbox;
+    justify-content: center;
+    align-items: center;
+    margin: 3px 0px;
+}
+
+.title:hover{
+    background-color: rgb(124, 244, 11);
+}
+
+.p{
+     display: flex; 
+    text-align: center; 
+    justify-content: space-between;
+   align-items: center; 
+    text-transform:capitalize;
+    color: rgb(239, 229, 229); 
+   
+ }
+.price{
+    font-size: 20px;
+    color: rgb(249, 15, 15);
+    font-family: italic;
+    justify-content: center;
+    padding: 20px 30px;
+}
+
+.btn{
+    font-size: 20px;
+    background-color: red;
+    text-align: center;
+    /* margin-left: 1px 1px;
+    padding-left: 1px 4px; */
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+      
+}
+
+.btn:hover{
+    background-color: green;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+/* .upper_data h4{
+    font-size: 18px;
+    color: black;
+    letter-spacing: .5px;
+    font-weight: 500 ;
+
+}
+.upper_data span{
+   background-color: green;
+   border-radius: 6px;
+   color: white;
+   text-align: center;
+   font-size: 13px;
+   font-weight:600;
+   padding: 2px 1px;
+   width: 45px;
+}
+     */
+

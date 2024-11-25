@@ -1,0 +1,38 @@
+
+.payment{
+     margin: 2px 50px;
+     padding:0px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     text-align: center;
+     font-size: 20px;
+     color: black;
+    
+}
+.icon{
+     margin: 10px 90px;
+     padding: 2px 10px;
+     display: flex;
+     align-items: flex-end;
+     justify-content: space-between;
+     width: 100px;
+     box-sizing: border-box;
+    
+
+}
+.check{
+     margin: 1px 70px;
+     
+     
+
+}
+.btn{
+     margin: 10px 20px;
+   
+}
+.radio{
+     margin: 10px 50px;
+    
+     
+}
